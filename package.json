@@ -9,7 +9,7 @@
     "react": "^16.8.5",
     "react-csv": "^1.1.1",
     "react-dom": "^16.8.5",
-    "react-scripts": "2.1.8",
+    "react-scripts": "5.0.1",
     "reactstrap": "^7.1.0"
   },
   "scripts": {
